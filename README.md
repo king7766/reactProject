@@ -5,9 +5,9 @@ This project aimed to show top 100 free apps from APP STORE.
 <br />This is NOT for commerical usage, ONLY for interest and participate react-native for some basic development.
 
 <img height="700" src="https://github.com/king7766/reactProject/blob/master/screenshot01.png" />
-![alt text](https://github.com/king7766/reactProject/blob/master/screenshot01.png)
-![alt text](https://github.com/king7766/reactProject/blob/master/screenshot02.png)
-![alt text](https://github.com/king7766/reactProject/blob/master/screenshot03.png)
+<img height="700" src="https://github.com/king7766/reactProject/blob/master/screenshot02.png" />
+<img height="700" src="https://github.com/king7766/reactProject/blob/master/screenshot03.png" />
+
 
 
 Steps to compile this react native project:<br />
