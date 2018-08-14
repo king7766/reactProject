@@ -1,6 +1,6 @@
 # README
 
-This project aim to show top 100 free apps from APP STORE.
+This project aimed to show top 100 free apps from APP STORE.
 <br />All data source come from itunes.apple.com.
 <br />This is NOT for commerical usage, ONLY for interest and participate react-native for some basic development.
 
