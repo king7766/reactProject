@@ -46,7 +46,7 @@ Steps to compile this react native project:<br />
 	◦	Ref: http://facebook.github.io/react-native/releases/0.45/docs/running-on-device.html#running-your-app-on-ios-devices
 
 # Run on Android devices
-◦	Plug in your device via USB
+	◦	Plug in your device via USB
 	◦	Method A:
 	◦	Inside our React Native project folder, run
 	◦	react-native run-android
