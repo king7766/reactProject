@@ -4,6 +4,10 @@ This project aimed to show top 100 free apps from APP STORE.
 <br />All data source come from itunes.apple.com.
 <br />This is NOT for commerical usage, ONLY for interest and participate react-native for some basic development.
 
+![alt text](https://github.com/king7766/reactProject/blob/master/screenshot01.png)
+![alt text](https://github.com/king7766/reactProject/blob/master/screenshot02.png)
+![alt text](https://github.com/king7766/reactProject/blob/master/screenshot03.png)
+
 
 Steps to compile this react native project:<br />
 	1.	Install dependencies http://facebook.github.io/react-native/releases/0.45/docs/getting-started.html#installing-dependencies
