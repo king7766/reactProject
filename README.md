@@ -27,10 +27,10 @@ Steps to compile this react native project:<br />
 
 # Run on iOS simulator
 
-<br />Inside our React Native project folder, Run:
-<br />react-native run-ios
-<br />iOS Simulator should be launch automatically and our app will be running on it.
-<br />Ref: http://facebook.github.io/react-native/releases/0.45/docs/getting-started.html#running-your-react-native-application
+	◦	Inside our React Native project folder, Run:
+	◦	react-native run-ios
+	◦	iOS Simulator should be launch automatically and our app will be running on it.
+	◦	Ref: http://facebook.github.io/react-native/releases/0.45/docs/getting-started.html#running-your-react-native-application
 
 # Run on Android emulator
 <br />First launch your Android Virtual Devices.
